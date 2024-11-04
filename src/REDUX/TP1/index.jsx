@@ -1,6 +1,6 @@
 import { useSelector } from "react-redux";
 
-function reduxApp() {
+function reduxApp(){
     const compteur =useSelector(state.cpt)
     return ( 
         <div>
@@ -9,4 +9,4 @@ function reduxApp() {
      );
 }
 
-export default reduxApp;
+export default reduxApp ;
