@@ -1,0 +1,14 @@
+.ex1Sty{
+    margin: 100px 100px 0 100px;
+}
+.Err{
+    color: red;
+    margin: 0 100px;
+}
+.Suc{
+    color: rgb(115, 255, 0);
+    margin: 0 100px;
+}
+.msgWel{
+    margin: 100px 100px 0 100px;
+}
